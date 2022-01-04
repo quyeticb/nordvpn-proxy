@@ -81,7 +81,7 @@ script_needs() {
 }
 
 script_init() {
-  log "Checking curl installation"
+  log "Kiem tra curl"
   script_needs curl
 }
 
